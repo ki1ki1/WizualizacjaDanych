@@ -1,0 +1,1 @@
+['Puma', 'Lew', 'Tygrys', 'Jamnik']
